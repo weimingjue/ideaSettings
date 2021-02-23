@@ -1,0 +1,5 @@
+<templateSet group="AndroidXML">
+  <template name="lhw" value="android:layout_height=&quot;wrap_content&quot;" description="android:layout_height=&quot;wrap_content&quot;" toReformat="false" toShortenFQNames="true">
+    <context />
+  </template>
+</templateSet>

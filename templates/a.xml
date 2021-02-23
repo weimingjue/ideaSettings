@@ -1,0 +1,110 @@
+<templateSet group="a">
+  <template name="idName" value="$SX$_$FN$_$END$" description="id的格式：缩写+xml名+名称" toReformat="false" toShortenFQNames="true">
+    <variable name="SX" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FN" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="dataEntity" value="/**&#10; * $DESC$&#10; */&#10;public final class $CLASS$ extends BaseBean {&#10;    public DataEntity data;&#10;&#10;    public static final class DataEntity {&#10;        public $END$&#10;    }&#10;}" description="继承BaseBean的默认样式" toReformat="true" toShortenFQNames="true">
+    <variable name="DESC" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="lineView" value="&lt;View&#10;    android:layout_width=&quot;$W$&quot;&#10;    android:layout_height=&quot;$H$&quot;&#10;    android:background=&quot;@color/$C$&quot; /&gt;" description="横竖线" toReformat="false" toShortenFQNames="true">
+    <variable name="W" expression="" defaultValue="&quot;match_parent&quot;" alwaysStopAt="true" />
+    <variable name="H" expression="" defaultValue="&quot;1px&quot;" alwaysStopAt="true" />
+    <variable name="C" expression="" defaultValue="&quot;color_eee&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="linearLayout" value="&lt;LinearLayout&#10;    android:layout_width=&quot;$W$&quot;&#10;    android:layout_height=&quot;$H$&quot;&#10;    $END$&#10;    android:orientation=&quot;$O$&quot;&gt;&#10;        &#10;    &lt;/LinearLayout&gt;" description="ll" toReformat="false" toShortenFQNames="true">
+    <variable name="W" expression="" defaultValue="&quot;match_parent&quot;" alwaysStopAt="true" />
+    <variable name="H" expression="" defaultValue="&quot;wrap_content&quot;" alwaysStopAt="true" />
+    <variable name="O" expression="" defaultValue="&quot;vertical&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="listAdapter" value="public class $CLASS$ extends BaseQuickAdapter&lt;$BEAN$, $CLASS$.ViewHolder&gt; {&#10;&#10;    public $CLASS$() {&#10;        super(R.layout.adapter_$LAYOUT$);&#10;    }&#10;&#10;    @Override&#10;    protected void convert(ViewHolder helper, $BEAN$ item) {&#10;&#10;    }&#10;&#10;    static class ViewHolder extends BaseViewHolder {&#10;&#10;        ViewHolder(View view) {&#10;            super(view);&#10;            ButterKnife.bind(this, view);&#10;        }&#10;    }&#10;}&#10;" description="快速创建一个list的Adapter" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="BEAN" expression="" defaultValue="&quot;BaseBean&quot;" alwaysStopAt="true" />
+    <variable name="LAYOUT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="prv" value="private void $NAME$($VALUE$) {&#10;    $END$&#10;}" description="private void" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="pv" value="public void $NAME$($VALUE$) {&#10;    $END$&#10;}" description="public void" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="psv" value="public static void $NAME$($VALUE$) {&#10;        $END$&#10;}" description="public static void" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="sw" value="&#10;switch ($DATA$) {&#10;    case $ITEM$:&#10;        break;&#10;    default:&#10;        break;&#10;}" description="switch case" toReformat="true" toShortenFQNames="true">
+    <variable name="DATA" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="textView" value="&lt;TextView$ID$&#10;    android:layout_width=&quot;wrap_content&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:text=&quot;$TEXT$&quot;$TOOLS$&#10;    android:textSize=&quot;$SIZE$sp&quot;&#10;    android:textColor=&quot;@color/color_$COLOR$&quot; /&gt;" description="tv" toReformat="false" toShortenFQNames="true">
+    <variable name="ID" expression="" defaultValue="&quot;\nandroid:id=\&quot;@+id/tv_\&quot;&quot;" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TOOLS" expression="" defaultValue="&quot;\ntools:text=\&quot;\&quot;&quot;" alwaysStopAt="true" />
+    <variable name="SIZE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COLOR" expression="" defaultValue="&quot;333333&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="viewCustom" value="/**&#10; * $END$&#10; */&#10;public final class $CLASS$ extends $SUPER$ {&#10;    public $CLASS$(Context context) {&#10;        this(context, null);&#10;    }&#10;&#10;    public $CLASS$(Context context, @Nullable AttributeSet attrs) {&#10;        this(context, attrs, 0);&#10;    }&#10;&#10;    public $CLASS$(Context context, @Nullable AttributeSet attrs, int defStyleAttr) {&#10;        this(context, attrs, defStyleAttr, 0);&#10;    }&#10;&#10;    public $CLASS$(Context context, AttributeSet attrs, int defStyleAttr, int defStyleRes) {&#10;        super(context, attrs, defStyleAttr, defStyleRes);&#10;        initData();&#10;    }&#10;&#10;    private void initData() {&#10;    }&#10;}" description="自定义view的构造" toReformat="true" toShortenFQNames="true">
+    <variable name="CLASS" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <variable name="SUPER" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="superTextView" value="&lt;com.coorchice.library.SuperTextView&#10;    android:layout_width=&quot;match_parent&quot;&#10;    android:layout_height=&quot;wrap_content&quot;&#10;    android:layout_marginHorizontal=&quot;15dp&quot;$TOP_BOTTOM$&#10;    android:gravity=&quot;center&quot;&#10;    android:onClick=&quot;@{$ACTIVITY$::on$CLICK$}&quot;&#10;    android:padding=&quot;15dp&quot;&#10;    android:text=&quot;$TEXT$&quot;&#10;    android:textColor=&quot;@color/color_fff&quot;&#10;    android:textSize=&quot;$SIZE$sp&quot;&#10;    android:textStyle=&quot;bold&quot;&#10;    app:corner=&quot;$CORNER$dp&quot;&#10;    app:solid=&quot;@color/color_$SOLID$&quot; /&gt;" description="圆角tv" toReformat="false" toShortenFQNames="true">
+    <variable name="TOP_BOTTOM" expression="" defaultValue="&quot;\n    android:layout_marginTop=\&quot;6dp\&quot;\n    android:layout_marginBottom=\&quot;10dp\&quot;&quot;" alwaysStopAt="true" />
+    <variable name="ACTIVITY" expression="" defaultValue="&quot;activity&quot;" alwaysStopAt="true" />
+    <variable name="CLICK" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SIZE" expression="" defaultValue="&quot;15&quot;" alwaysStopAt="true" />
+    <variable name="CORNER" expression="" defaultValue="&quot;6&quot;" alwaysStopAt="true" />
+    <variable name="SOLID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="pvv" value="public void on$NAME$Click(View v) {&#10;    $END$&#10;}" description="public void onXXXClick(View v)" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+  <template name="weightView" value="&lt;View&#10;    android:layout_width=&quot;$W$px&quot;&#10;    android:layout_height=&quot;$H$px&quot;&#10;    android:layout_weight=&quot;1&quot; /&gt;" description="占位" toReformat="false" toShortenFQNames="true">
+    <variable name="W" expression="" defaultValue="&quot;0&quot;" alwaysStopAt="true" />
+    <variable name="H" expression="" defaultValue="&quot;1&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

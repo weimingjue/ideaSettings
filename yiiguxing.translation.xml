@@ -1,0 +1,77 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Markdown language support for IntelliJ platform Markdown Navigator enhanced edition available in JetBrains Marketplace or with a legacy license. Document with pleasure! Work with Markdown files like you do with other languages in the IDE, by getting full support for: Paste images into documents for fast screen capture links Drag amp; Drop files and images for fast link insertion Formatting to cleanup documents with a key stroke Navigation and Find Usages to find references without effort Copy Markdown as JIRA, YouTrack or HTML formatted text Convert HTML to Markdown by pasting it into a Markdown document. Export to HTML or PDF to share with others Refactoring of all referencing elements: files ⟺ links headings ⟺ ref anchors footnotes ⟺ footnote refs references ⟺ ref links/ref images Completions to reduce typing: link address ⇐ files ref anchors ⇐ headings footnote refs ⇐ footnotes ref links/ref images ⇐ references link text ⇐ ref anchor/link address Error and Warning annotations to help catch mistakes early Intention actions for fast results with less effort Wrap on Typing to keep it nicely formatted as you edit GitHub style rendering that you are used to, out of the box GitLab parsing and rendering extensions Math extension using Katex Charts extension using Mermaid Math block and inline rendering by Katex or codecogs.com PlantUML fenced code rendering by PlantUML or gravizo.com Fast typing response for distraction free editing Fully customizable to adjust to your preferences and project needs" />
+      <item value="Provides the capability to edit Markdown files within the IDE and see the rendered HTML in a live preview. Includes the following features: Document structure view, headers folding, highlighting, TODOs. Code completion and navigation for links to project files. Embedding fenced code blocks for different languages. Visualizing diagrams for the DOT or PlantUML diagramming languages. Ability to use custom stylesheets for a live preview." />
+      <item value="Plugin for writing Gauge tests The plugin provides the following basic features: Basic language parsing and highlighting Project Creation Auto completion Navigation from step to implementation Quick Fix for unimplemented steps Execution and Debugging specs Support for Concepts Refactoring support" />
+      <item value="Adds support for the YAML language." />
+      <item value="Test recorder project." />
+      <item value="Provides a toolwindow with an embedded terminal." />
+      <item value="Enables task and context management" />
+      <item value="Adds support for smali files produced by Android disassembler" />
+      <item value="Shell Script support for IntelliJ IDEA, RubyMine, WebStorm, etc." />
+      <item value="Supports sharing settings between installations of IntelliJ Platform based products used by the same developer (or team) on different computers. Synchronization is performed automatically after successful completion of &quot;Update Project&quot; or &quot;Push&quot; actions. Also you can do sync using VCS -&gt; Sync Settings. See the Share settings through a settings repository for more info." />
+      <item value="Enables smart editing of .properties files." />
+      <item value="Allows working with Mercurial version control system. The following features are available: Dedicated page under the Version Control node in the Settings/Preferences dialog. Ability to browse, check out sources from and import into the available Mercurial repositories, when Mercurial is not enabled. When Mercurial is enabled, the Mercurial node appears on the VCS menu, and on the context menu of the editor." />
+      <item value="Provides a library for rendering Android resources" />
+      <item value="Extends standard .class file viewer with the Fernflower Java decompiler" />
+      <item value="Enables user configurable language injection support (originally developed by Sascha Weinreuter sascha.weinreuter@cit.de) The following features are available: Language injection Pattern validation Regular expression support Language Injections page in the Settings/Preferences dialog. Ability to edit injected code in the special scratch-pad editor." />
+      <item value="Firebase" />
+      <item value="Firebase connector simplifying the use of Firebase in your Android app." />
+      <item value="Google Developers Samples Allows searching Google's code samples and other resources based on the active symbol." />
+      <item value="The following plugins Firebase Testing are enabled and depends on selected plugins. Would you like to disable them too?" />
+      <item value="Cloud Tools Core" />
+      <item value="Enables Firebase Testing." />
+      <item value="Allows working with GitHub. The following features are available: Dedicated page under the Version Control node in the Settings/Preferences dialog. Ability to browse, check out sources from and import into the available Git repositories, when GitHub is not enabled. When GitHub is enabled, the GitHub node appears on the VCS menu, and on the context menu of the editor." />
+      <item value="Use Ctrl+Y to Redo or to Delete Line?" />
+      <item value="This behavior can be changed later in Settings | Keymap." />
+      <item value="scope" />
+      <item value=" 0 07:58:39 Upgrade to receive today's free distribution 180567403.854956 YNB being released today What is the Yinbi Giveaway? The Yinbi foundation is giving away 888 billion YNB cryptocurrency exclusively through Lantern to purchasers of Lantern Pro. YNB will be distributed at the end of every day, based on the quantity of Yinbi released that day, the number of people that upgrade/renew, and the number of years or accounts you purchase. YNB will be deposited directly into your Yinbi Wallet in Lantern. Learn More" />
+      <item value="repositories" />
+      <item value="Grade" />
+      <item value="real name" />
+      <item value="record" />
+      <item value="Abstract Base Java Local Inspection Tool" />
+      <item value="typo" />
+      <item value="inspections" />
+      <item value="Outdated Library Your app is using an outdated version of a library. This may cause violations of Google Play policies (see https://play.google.com/about/monetization-ads/ads/) and/or may affect your app’s visibility on the Play Store. Please try updating your app with an updated version of this library, or remove it from your app. Issue id: OutdatedLibrary" />
+      <item value="intentions" />
+      <item value="置顶" />
+      <item value="set Increase Count" />
+      <item value="navigation bar toolbar" />
+      <item value="m Is Infinite Loop" />
+      <item value="rotate" />
+      <item value="旋转" />
+      <item value="increase Count" />
+      <item value="// TODO(b/114361680): call smoothScrollToPosition synchronously (blocked by b/114019007)" />
+      <item value="// For smooth scroll, pre-jump to nearby item for long jumps." />
+      <item value="// 3. Perform the necessary scroll actions on RecyclerView" />
+      <item value="// Scroll to follow the motion event" />
+      <item value="FreeMarker template error: The following has evaluated to null or missing: ==&gt; applicationPackage [in template &quot;root://activities/BaseActivity/root/src/app_package/SimpleActivity.java.ftl&quot; at line 3, column 10] Tip: If the failing expression is known to be legally null/missing, either specify a default value with myOptionalVar!myDefault, or use &lt;#if myOptionalVar??&gt;when-present&lt;#else&gt;when-missing&lt;/#if&gt;. (These only cover the last step of the expression; to cover the whole expression, use parenthessis: (myOptionVar.foo)!myDefault, (myOptionVar.foo)?? The failing instruction (FTL stack trace): ---------- ==&gt; ${applicationPackage} [in template &quot;root://activities/BaseActivity/root/src/app_package/SimpleActivity.java.ftl&quot; at line 3, column 8] ---------- Java stack trace (for programmers):" />
+      <item value="* Just a copy of the original ViewPager modified to support vertical Scrolling" />
+      <item value="can Overscroll" />
+      <item value="* If being flinged and user touches the screen, initiate drag; * otherwise don't. mScroller.isFinished should be false when * being flinged. We need to call computeScrollOffset() first so that * isFinished() is correct." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="314" />
+        <entry key="ENGLISH" value="314" />
+        <entry key="DUTCH" value="1" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="BENGALI" value="2" />
+        <entry key="JAPANESE" value="1" />
+        <entry key="GREEK" value="1" />
+        <entry key="ITALIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210107000665689" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+  </component>
+</application>
