@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Deposit" />
       <item value="Can be combined with &lt;var&gt;text&lt;/var&gt; and its variations to allow multiple lines of text in the field. If this flag is not set, the text field will be constrained to a single line. Corresponds to {@link android.text.InputType#TYPE_TEXT_FLAG_MULTI_LINE}." />
       <item value="间隔" />
       <item value="Random Access File" />
@@ -50,12 +51,11 @@
       <item value="inspections" />
       <item value="Outdated Library Your app is using an outdated version of a library. This may cause violations of Google Play policies (see https://play.google.com/about/monetization-ads/ads/) and/or may affect your app’s visibility on the Play Store. Please try updating your app with an updated version of this library, or remove it from your app. Issue id: OutdatedLibrary" />
       <item value="intentions" />
-      <item value="置顶" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="DUTCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="BENGALI" value="2" />
