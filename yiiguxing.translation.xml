@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Random Access File" />
+      <item value="completed" />
+      <item value="Broken pipe" />
+      <item value="wait For Source Data" />
+      <item value="on Cache Available" />
       <item value="Wait Requests Runnable" />
       <item value="allow Cached File Uri" />
       <item value="can Reuse In Bitmap" />
@@ -46,16 +51,11 @@
       <item value="置顶" />
       <item value="set Increase Count" />
       <item value="navigation bar toolbar" />
-      <item value="m Is Infinite Loop" />
-      <item value="rotate" />
-      <item value="旋转" />
-      <item value="increase Count" />
-      <item value="// TODO(b/114361680): call smoothScrollToPosition synchronously (blocked by b/114019007)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="321" />
+        <entry key="CHINESE" value="325" />
+        <entry key="ENGLISH" value="326" />
         <entry key="DUTCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="BENGALI" value="2" />
