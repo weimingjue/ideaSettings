@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="比率" />
+      <item value="比例" />
+      <item value="Ratio" />
       <item value="Warning: debug info can be unavailable. Please close other application using ADB: Monitor, DDMS, Eclipse" />
       <item value="generic" />
       <item value="Deposit" />
@@ -48,14 +51,11 @@
       <item value="Grade" />
       <item value="real name" />
       <item value="record" />
-      <item value="Abstract Base Java Local Inspection Tool" />
-      <item value="typo" />
-      <item value="inspections" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="331" />
         <entry key="DUTCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="BENGALI" value="2" />
