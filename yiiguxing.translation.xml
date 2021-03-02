@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="// Allocate memory for Renderscript to work with" />
       <item value="// Load up an instance of the specific script that we want to use." />
       <item value="priority" />
       <item value="com.yanyi.commonwidget.roundview.Rounded Frame Layout" />
@@ -21,7 +22,6 @@
       <item value="Wait Requests Runnable" />
       <item value="allow Cached File Uri" />
       <item value="can Reuse In Bitmap" />
-      <item value="// Allocate memory for Renderscript to work with" />
       <item value="More than one file was found with OS independent path 'lib/armeabi-v7a/libijkplayer.so'" />
       <item value="switch focus to edit" />
       <item value="焦点" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="DUTCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="BENGALI" value="2" />
