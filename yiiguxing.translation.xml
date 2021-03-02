@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="com.yanyi.commonwidget.roundview.Rounded Frame Layout" />
       <item value="on Wifi Lost" />
       <item value="比率" />
       <item value="比例" />
@@ -50,12 +51,11 @@
       <item value=" 0 07:58:39 Upgrade to receive today's free distribution 180567403.854956 YNB being released today What is the Yinbi Giveaway? The Yinbi foundation is giving away 888 billion YNB cryptocurrency exclusively through Lantern to purchasers of Lantern Pro. YNB will be distributed at the end of every day, based on the quantity of Yinbi released that day, the number of people that upgrade/renew, and the number of years or accounts you purchase. YNB will be deposited directly into your Yinbi Wallet in Lantern. Learn More" />
       <item value="repositories" />
       <item value="Grade" />
-      <item value="real name" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="331" />
-        <entry key="ENGLISH" value="332" />
+        <entry key="CHINESE" value="332" />
+        <entry key="ENGLISH" value="333" />
         <entry key="DUTCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="BENGALI" value="2" />
