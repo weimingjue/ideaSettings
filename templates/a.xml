@@ -107,4 +107,10 @@
       <option name="XML" value="true" />
     </context>
   </template>
+  <template name="now" value="long $NOW$ = System.currentTimeMillis();" description="switch case" toReformat="true" toShortenFQNames="true">
+    <variable name="NOW" expression="" defaultValue="&quot;now&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
