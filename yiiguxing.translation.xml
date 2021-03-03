@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="@BindingAdapter &lt;V&gt;run(V,com.wang.base.utils.BindingAdapterUtils.Rrr&lt;V&gt;,boolean) is applied to a method that doesn't take a View subclass as the first or second parameter. When a BindingAdapter uses a DataBindingComponent, the component parameter is first and the View parameter is second, otherwise the View parameter is first. public static &lt;V extends View&gt; void run(@NonNull V v, Rrr&lt;V&gt; r, boolean isPost) {" />
       <item value="Process" />
       <item value="Is Process" />
       <item value="Is Process Context" />
@@ -50,12 +51,11 @@
       <item value="The following plugins Firebase Testing are enabled and depends on selected plugins. Would you like to disable them too?" />
       <item value="Cloud Tools Core" />
       <item value="Enables Firebase Testing." />
-      <item value="Allows working with GitHub. The following features are available: Dedicated page under the Version Control node in the Settings/Preferences dialog. Ability to browse, check out sources from and import into the available Git repositories, when GitHub is not enabled. When GitHub is enabled, the GitHub node appears on the VCS menu, and on the context menu of the editor." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="338" />
-        <entry key="ENGLISH" value="339" />
+        <entry key="CHINESE" value="339" />
+        <entry key="ENGLISH" value="340" />
         <entry key="DUTCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="BENGALI" value="2" />
