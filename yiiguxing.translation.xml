@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="force Uniform Height" />
+      <item value="s Remeasure Weighted Children" />
+      <item value="// The widthMode is either UNSPECIFIED or AT_MOST, and // this child is only laid out using excess space. Measure // using WRAP_CONTENT so that we can find out the view's // optimal width. We'll restore the original width of 0 // after measurement." />
+      <item value="use Excess Space" />
+      <item value="offset Horizontal Axis" />
+      <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObject$CustomMessageMissingMethodException: Could not find method buildFeatures() for arguments [build_f24r4j90nvkgz6zakcju3a89a$_run_closure1$_closure6@5f3e1eee] on object of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension." />
       <item value="layout_order_pay.xml has more than 80 views, bad for performance" />
       <item value="is Auto Clone Enabled" />
       <item value="核销" />
@@ -45,17 +51,11 @@
       <item value="Test recorder project." />
       <item value="Provides a toolwindow with an embedded terminal." />
       <item value="Enables task and context management" />
-      <item value="Adds support for smali files produced by Android disassembler" />
-      <item value="Shell Script support for IntelliJ IDEA, RubyMine, WebStorm, etc." />
-      <item value="Supports sharing settings between installations of IntelliJ Platform based products used by the same developer (or team) on different computers. Synchronization is performed automatically after successful completion of &quot;Update Project&quot; or &quot;Push&quot; actions. Also you can do sync using VCS -&gt; Sync Settings. See the Share settings through a settings repository for more info." />
-      <item value="Enables smart editing of .properties files." />
-      <item value="Allows working with Mercurial version control system. The following features are available: Dedicated page under the Version Control node in the Settings/Preferences dialog. Ability to browse, check out sources from and import into the available Mercurial repositories, when Mercurial is not enabled. When Mercurial is enabled, the Mercurial node appears on the VCS menu, and on the context menu of the editor." />
-      <item value="Provides a library for rendering Android resources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="347" />
-        <entry key="ENGLISH" value="347" />
+        <entry key="CHINESE" value="352" />
+        <entry key="ENGLISH" value="353" />
         <entry key="DUTCH" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="BENGALI" value="2" />
