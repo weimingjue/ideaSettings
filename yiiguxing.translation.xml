@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SSL ERROR SYSCALL" />
       <item value="POSITION UNCHANGED" />
       <item value="m Is Being Dragged" />
       <item value="The application's PagerAdapter changed the adapter's contents without calling PagerAdapter#notifyDataSetChanged! Expected adapter item count: 2, found: 3 Pager id: com.yanyi.user:id/vp Pager class: class androidx.viewpager.widget.ViewPager Problematic adapter: class com.yanyi.user.pages.home.page.HomeFragment$MyPagerAdapter" />
@@ -50,12 +51,11 @@
       <item value="比例" />
       <item value="Ratio" />
       <item value="Warning: debug info can be unavailable. Please close other application using ADB: Monitor, DDMS, Eclipse" />
-      <item value="generic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="CHINESE" value="369" />
+        <entry key="ENGLISH" value="370" />
         <entry key="DUTCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
