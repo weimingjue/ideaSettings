@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STATE PLAYBACK COMPLETED" />
       <item value="STATE IDLE" />
       <item value="START ABORT" />
       <item value="on Completion" />
@@ -50,12 +51,11 @@
       <item value="// Allocate memory for Renderscript to work with" />
       <item value="// Load up an instance of the specific script that we want to use." />
       <item value="priority" />
-      <item value="com.yanyi.commonwidget.roundview.Rounded Frame Layout" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="373" />
-        <entry key="ENGLISH" value="374" />
+        <entry key="CHINESE" value="374" />
+        <entry key="ENGLISH" value="375" />
         <entry key="DUTCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
