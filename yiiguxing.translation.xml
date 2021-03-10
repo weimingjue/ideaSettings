@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="is To Open Or Close Drawer" />
+      <item value="is To Close Activity If Allowed" />
       <item value="Recruit" />
       <item value="福利" />
       <item value="STATE PLAYBACK COMPLETED" />
@@ -49,13 +51,11 @@
       <item value="Process" />
       <item value="Is Process" />
       <item value="Is Process Context" />
-      <item value="m Is Process Context" />
-      <item value="// Allocate memory for Renderscript to work with" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="375" />
-        <entry key="ENGLISH" value="376" />
+        <entry key="CHINESE" value="377" />
+        <entry key="ENGLISH" value="378" />
         <entry key="DUTCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
