@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="field" />
+      <item value="single" />
+      <item value="lazy" />
+      <item value="it" />
+      <item value="Scope" />
+      <item value="sealed" />
       <item value="Sliding Up Panel Layout" />
       <item value="is To Open Or Close Drawer" />
       <item value="is To Close Activity If Allowed" />
@@ -45,17 +51,11 @@
       <item value="核销" />
       <item value="m Adapter.get Data().index Of(" />
       <item value="This inspection highlights unknown XML attributes in Android resource files and AndroidManifest.xml" />
-      <item value="INSTALL FAILED USER RESTRICTED" />
-      <item value="if getId is called on an expression, it should have an id: tvText.text" />
-      <item value="&gt; Compilation failed; see the compiler error output for details." />
-      <item value="@BindingAdapter &lt;V&gt;run(V,com.wang.base.utils.BindingAdapterUtils.Rrr&lt;V&gt;,boolean) is applied to a method that doesn't take a View subclass as the first or second parameter. When a BindingAdapter uses a DataBindingComponent, the component parameter is first and the View parameter is second, otherwise the View parameter is first. public static &lt;V extends View&gt; void run(@NonNull V v, Rrr&lt;V&gt; r, boolean isPost) {" />
-      <item value="Process" />
-      <item value="Is Process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="384" />
+        <entry key="ENGLISH" value="385" />
         <entry key="DUTCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
