@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="倍数" />
       <item value="优化版" />
       <item value="优化" />
       <item value="Leak Canary" />
@@ -50,12 +51,11 @@
       <item value="offset Horizontal Axis" />
       <item value="Caused by: org.gradle.internal.metaobject.AbstractDynamicObject$CustomMessageMissingMethodException: Could not find method buildFeatures() for arguments [build_f24r4j90nvkgz6zakcju3a89a$_run_closure1$_closure6@5f3e1eee] on object of type com.android.build.gradle.internal.dsl.BaseAppModuleExtension." />
       <item value="layout_order_pay.xml has more than 80 views, bad for performance" />
-      <item value="is Auto Clone Enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="387" />
-        <entry key="ENGLISH" value="387" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="388" />
         <entry key="DUTCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
