@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to find method 'com.android.build.gradle.internal.variant.BaseVariantData.getScope()LcomandroidbuildgradleinternalscopeVariantScope;' com.android.build.gradle.internal.variant.BaseVariantData.getScope()LcomandroidbuildgradleinternalscopeVariantScope; Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.) Re-download dependencies and sync project (requires network) The state of a Gradle build process (daemon) may be corrupt. Stopping all Gradle daemons may solve this problem. Stop Gradle build processes (requires restart) Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project. In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
       <item value="16:54 Plugin Update Recommended: Android Gradle Plugin is ready to update." />
       <item value="&lt;!-- Attribute whether the accessibility service wants to be able to request to filter key events. &lt;p&gt; Required to allow setting the {@link android.accessibilityservice #AccessibilityServiceInfo#FLAG_REQUEST_FILTER_KEY_EVENTS} flag. &lt;/p&gt; --&gt;" />
       <item value="倍数" />
@@ -50,12 +51,11 @@
       <item value="s Remeasure Weighted Children" />
       <item value="// The widthMode is either UNSPECIFIED or AT_MOST, and // this child is only laid out using excess space. Measure // using WRAP_CONTENT so that we can find out the view's // optimal width. We'll restore the original width of 0 // after measurement." />
       <item value="use Excess Space" />
-      <item value="offset Horizontal Axis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="390" />
+        <entry key="ENGLISH" value="391" />
         <entry key="DUTCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
