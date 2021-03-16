@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Res Monitor" />
       <item value="Unable to find method 'com.android.build.gradle.internal.variant.BaseVariantData.getScope()LcomandroidbuildgradleinternalscopeVariantScope;' com.android.build.gradle.internal.variant.BaseVariantData.getScope()LcomandroidbuildgradleinternalscopeVariantScope; Gradle's dependency cache may be corrupt (this sometimes occurs after a network connection timeout.) Re-download dependencies and sync project (requires network) The state of a Gradle build process (daemon) may be corrupt. Stopping all Gradle daemons may solve this problem. Stop Gradle build processes (requires restart) Your project may be using a third-party plugin which is not compatible with the other plugins in the project or the version of Gradle requested by the project. In the case of corrupt Gradle processes, you can also try closing the IDE and then killing all Java processes." />
       <item value="demon" />
       <item value="Deprecated Gradle features were used in this build, making it incompatible with Gradle 7.0. Use '--warning-mode all' to show the individual deprecation warnings." />
@@ -50,12 +51,11 @@
       <item value="Desugaring" />
       <item value="core" />
       <item value="core Library Desugaring" />
-      <item value="force Uniform Height" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="DUTCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
         <entry key="LUXEMBOURGISH" value="1" />
